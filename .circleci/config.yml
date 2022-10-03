@@ -16,5 +16,5 @@ jobs:
       - run:
           name: "Front-End Install" 
           command: |
-            echo "run frontend:install"
+            echo "run-frontend:install"
   
