@@ -14,7 +14,7 @@ jobs:
       - checkout
       # install dependencies in both apps
       - run:
-          name: "Front-End Install" 
+          name: Front-End-Install
           command: |
             echo "run-frontend:install"
   
